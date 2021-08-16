@@ -14,8 +14,8 @@
 [user]
 	name = Sylvain Whissell
 	email = sylvain.whissell@shopify.com
-[credential]
-	helper = 
-	helper = store --file /opt/dev/var/private/git_credential_store
+# [credential]
+# 	helper = 
+# 	helper = store --file /opt/dev/var/private/git_credential_store
 [fetch]
         prune = true
